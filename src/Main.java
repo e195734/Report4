@@ -1,5 +1,5 @@
 public class Main {
-
+    /*
     public static void main(String[] args) {
         try{
             // write your code here
@@ -11,5 +11,10 @@ public class Main {
             System.out.println(i.getMessage());
         }
 
+    }
+    */
+    public static void  main(String[] args){
+        String str = "百二十三";
+        int value =  Integer.parseInt(str);
     }
 }
